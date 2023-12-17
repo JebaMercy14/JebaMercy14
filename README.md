@@ -1,3 +1,8 @@
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+</div>
+
+
 # 💫 About Me:
 I'm Kothai, Data enthusiast and Visual designer. <br><br>As a Data enthusiast, I am deeply passionate about the areas of data science, data analysis, and web development. <br><br>With a strong background in programming languages like C, C++, Java, and Python, I possess a keen eye for detail and excel at active listening. I thrive on continuous learning and stay up-to-date with the latest industry trends and embracing new technologies to expand my knowledge and skill set. <br><br>Outside of my professional pursuits, I find solace and inspiration in the world of digital illustrations and design. It's a creative outlet that enables me to express my artistic side and refine my visual design skills.
 
