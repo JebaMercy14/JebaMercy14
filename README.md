@@ -5,7 +5,22 @@
 </div>
 
 
-<h5 align="left">I'm Kothai, Data enthusiast and Visual designer.<br><br>As a Data enthusiast, I am deeply passionate about the areas of data science, data analysis, and web development.<br><br>With a strong background in programming languages like C, C++, Java, and Python, I possess a keen eye for detail and excel at active listening. I thrive on continuous learning and stay up-to-date with the latest industry trends and embracing new technologies to expand my knowledge and skill set.<br><br>Outside of my professional pursuits, I find solace and inspiration in the world of digital illustrations and design. It's a creative outlet that enables me to express my artistic side and refine my visual design skills.</h5>
+<h5 align="left">
+🔹 👋 Hello, I’m Kothai! A passionate Data Enthusiast and Visual Designer. 🎓 Graduated with a B.E. in Computer Science and Engineering, I’ve honed my skills in Data Science and Analysis. 🖥️
+
+🔹 Education 🎓: Graduated with a B.E. in Computer Science and Engineering from Prince Shri Venkateswara Padmavathy Engineering College with a CGPA of 8.60.
+
+🔹 Work Experience 💼: Gained hands-on experience in developing and implementing technical solutions as a Programmer Analyst Trainee.As a Programmer Analyst Trainee, I’ve developed technical expertise in Java, SQL, JDBC, and more. My projects range from creating a Pharmacy Management System to predicting loan credibility and analyzing crime rates. 📊
+
+🔹 Academic Projects 📚: Led and developed projects in Applied Data Science, Artificial Intelligence, and Data Analysis. Utilized Machine Learning, Deep Learning, and Computer Vision technologies to create innovative solutions.
+
+🔹 Internships 🎯: Served as a Data Science Trainee at 360digitmg and a Data Analytics Consulting Virtual Intern at KPMG. Improved Medical Inventory Optimization and analyzed customer data to identify valuable customer segments.I’ve had the privilege of interning at 360digitmg and KPMG, where I applied my knowledge in Data Wrangling, Data Visualization, and Exploratory Data Analysis. 📈
+
+🔹 Skills 🛠️: Proficient in Python, SQL, Jupyter Notebook, Google collab, Kaggle, Power BI & Excel. Experienced in working with MySQL and PostgreSQL databases. Skilled in Machine Learning, Deep Learning, NLP, and Computer Vision technologies.
+
+🔹 Hobbies 🚀:Apart from my technical pursuits, I express my creativity through Digital Illustrations and Design. It’s my artistic outlet that refines my visual design skills. 🎨
+
+</h5>
 
 ###
 
