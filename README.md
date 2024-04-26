@@ -6,7 +6,7 @@
 
 
 <h5 align="left">
-🔹 👋 Hello, I’m Kothai! A passionate Data Enthusiast and Visual Designer. 🎓 Graduated with a B.E. in Computer Science and Engineering, I’ve honed my skills in Data Science and Analysis. 🖥️
+🔹 👋 Hello, I’m Kothai! A passionate Data Enthusiast and Visual Designer. As a Data enthusiast, I am deeply passionate about the areas of data science, data analysis, and web development.<br><br>With a strong background in programming languages like C, C++, Java, and Python, I possess a keen eye for detail and excel at active listening. I thrive on continuous learning and stay up-to-date with the latest industry trends and embracing new technologies to expand my knowledge and skill set.<br><br>Outside of my professional pursuits, I find solace and inspiration in the world of digital illustrations and design. It's a creative outlet that enables me to express my artistic side and refine my visual design skills.
 
 🔹 Education 🎓: Graduated with a B.E. in Computer Science and Engineering from Prince Shri Venkateswara Padmavathy Engineering College with a CGPA of 8.60.
 
