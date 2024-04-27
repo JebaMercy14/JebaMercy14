@@ -98,7 +98,7 @@
 <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
-<img width="12" />
+<img width="55" />
 
 
 ### Framework
@@ -111,6 +111,8 @@
 <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
+<img width="12" />
+<img src="https://assets.website-files.com/5f10ed4c0ebf7221fb5661a5/5f23a7a9b70a249eed481481_Junit.png" height="40" alt="jquery logo"  />
 <img width="12" />
 
 
