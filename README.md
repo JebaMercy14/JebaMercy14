@@ -23,18 +23,24 @@
 </h5>
 
 ###
-
+<h1 align='center'>Profile Stats 📊</h1>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JebaMercy14&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=JebaMercy14&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JebaMercy14&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=JebaMercy14&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JebaMercy14&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=JebaMercy14&locale=en&mode=weekly&theme=radical&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://github-profile-trophy.vercel.app?username=JebaMercy14&theme=radical&column=3&row=1&margin-w=4&margin-h=2&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JebaMercy14&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+###
+<h1 align='center'>Tech Stacks 💻 </h1>
 
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
+
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
@@ -139,6 +145,7 @@
 ###
 
 ###
+<h1 align='center'>Social media 🌐 </h1>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/kothai-s-7083a0245/" target="_blank">
@@ -155,14 +162,17 @@
   </a>
 </div>
 
+
 ###
+
+<h1 align='center'> Top Contributed Repo 🔝 </h1>
 
 <br clear="both">
 
 ###
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=JebaMercy14&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+
+![](https://github-contributor-stats.vercel.app/api?username=JebaMercy14&limit=5&theme=redical&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=JebaMercy14&icon=0&color=0)](https://visitcount.itsvg.in)
