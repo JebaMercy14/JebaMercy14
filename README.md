@@ -1,4 +1,4 @@
-https://github.com/JebaMercy14/JebaMercy14/edit/main/README.md<h1 align='center'>Hi There! 👋 </h1>
+<h1 align='center'>Hi There! 👋 </h1>
 
 <div align="center">
   <img align="right" height="150" src="https://static.vecteezy.com/system/resources/previews/000/227/852/original/female-developer-vector.jpg"  />
