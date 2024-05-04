@@ -152,6 +152,8 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 <img width="12" />
+<img src="https://store-images.s-microsoft.com/image/apps.28383.14202576542330599.e2a21905-d839-4a08-a9e2-42b2b28b331d.fe8f4307-30e2-4bf4-b5e6-c0be25fcea8b?h=464" height="40" alt="ibis paint logo"  />
+<img width="12" />
 
 ### Code Editor
 
@@ -164,6 +166,8 @@
 <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+<img width="12" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNropjDhO9uLSSZfrzJwgltW826reDHuzTLawEaxlgIA&s" height="40" alt="Replit logo"  />
 <img width="12" />
 
 ### Other
